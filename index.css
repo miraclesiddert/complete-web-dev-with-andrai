@@ -1,0 +1,25 @@
+/* selector{
+    property: value;
+} */
+
+body{
+    background-image: url(bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+h2{
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.1);
+    cursor: crosshair;
+}
+
+p {
+    color: pink ;
+}
